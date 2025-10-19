@@ -1,0 +1,6 @@
+services:
+  web:
+    image: myapp:latest
+    environment:
+      - API_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.fake.payload
+      - NORMAL_VAR=ok

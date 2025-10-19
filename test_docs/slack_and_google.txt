@@ -1,0 +1,3 @@
+# Slack and Google tokens
+slack_token = "xoxb-123456789012-ABCDEFGHIJKLmnopqrstuvwx"
+google_oauth = "ya29.A0ARrdaM-FAKE_GOOGLE_TOKEN_1234567890"

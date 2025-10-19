@@ -1,0 +1,3 @@
+Regular txt file that contains no secrets
+- shopping list: milk, eggs, bread
+- meeting at 3pm
